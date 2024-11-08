@@ -1,7 +1,8 @@
-   body {
+  body {
             background-color: lightblue;
             font-family: Arial, sans-serif;
         }
+      
         h1 {
             color: red;
             text-align: center;
@@ -32,6 +33,12 @@
             background-color: grey;
         }
         ul {
+            list-style-type: none;
+        }
+        .highlight {
+            color: blue
+        }
+
             list-style-type: none;
         }
         .highlight {
